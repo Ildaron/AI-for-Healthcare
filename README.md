@@ -9,7 +9,7 @@ Description
 Signal Processing-Driven AI for Healthcare examines how AI techniques can be applied across four major biosignals—EEG, EMG, EOG, and ECG—to derive clinically meaningful insights. As biomedical data becomes increasingly multimodal, there is a rising need for integrated methodologies that unite these signals within robust, explainable AI pipelines suitable for healthcare environments. This book provides a unified framework that spans data acquisition, preprocessing, feature extraction, modeling, evaluation, and deployment, with an emphasis on reproducibility, practical Python-based implementations, and real-world translation to clinical workflows.
 
 
-Table of contents
+Table of contents (be reviesed)
 Part I — Foundations
 
 1. Introduction: AI, biosignals, and healthcare workflows  
@@ -30,22 +30,22 @@ Part II — Signal Processing for Biomedical Time Series
 3.3 Artifact detection & removal: ICA, SSP, regression approaches
 3.4 Channel interpolation & re-referencing
 3.5 Quality metrics and pipeline reproducibility
-4. Time-frequency and feature transforms
-4.1 Fourier analysis and spectral features
-4.2 Short-time Fourier transform (spectrograms)
-4.3 Wavelets and multi-resolution analysis
-4.4 Empirical mode decomposition & Hilbert spectrum
-4.5 Feature normalization and selection techniques
-5. Spatial and multichannel processing
-5.1 Spatial filters: common average, Laplacian
-5.2 Source localization basics (inverse problems, dipole models)
-5.3 Spatial-spectral feature extraction (CSP for BCI)
-5.4 Dimensionality reduction: PCA, ICA, manifold learning
-Part III — Machine Learning & Deep Learning Methods
-6. Classical ML for biosignals
-6.1 Feature engineering strategies (time, frequency, non-linear features)
-6.2 Common classifiers: SVMs, Random Forests, k-NN, logistic regression
-6.3 Model evaluation: cross-validation, time-series splits, metrics (sensitivity, specificity, AUC)
+4. Time-frequency and feature transforms  
+4.1 Fourier analysis and spectral features  
+4.2 Short-time Fourier transform (spectrograms)  
+4.3 Wavelets and multi-resolution analysis  
+4.4 Empirical mode decomposition & Hilbert spectrum  
+4.5 Feature normalization and selection techniques  
+5. Spatial and multichannel processing  
+5.1 Spatial filters: common average, Laplacian  
+5.2 Source localization basics (inverse problems, dipole models)  
+5.3 Spatial-spectral feature extraction (CSP for BCI)  
+5.4 Dimensionality reduction: PCA, ICA, manifold learning  
+Part III — Machine Learning & Deep Learning Methods  
+6. Classical ML for biosignals  
+6.1 Feature engineering strategies (time, frequency, non-linear features)  
+6.2 Common classifiers: SVMs, Random Forests, k-NN, logistic regression  
+6.3 Model evaluation: cross-validation, time-series splits, metrics (sensitivity, specificity, AUC)  
 6.4 Imbalanced data, augmentation, and synthetic data (SMOTE, GANs)
 7. Deep learning approaches
 7.1 CNNs for spectrograms and spatial patterns
@@ -93,9 +93,7 @@ Part V — Multimodal Fusion, Deployment & Systems
 14.2 Model compression: pruning, quantization, distillation
 14.3 Embedded inference (microcontrollers, mobile GPUs, NPUs)
 14.4 Streaming architectures and pipelining for continuous monitoring
-15. Data engineering, annotation, and labelling strategies
-15.1 Creating reliable labels: clinical annotation workflows
-
-15.2 Weak labels, semi-supervised learning, and self-supervised pretraining
-
-15.3 Data versioning, provenance, and reproducible pipelines
+15. Data engineering, annotation, and labelling strategies  
+15.1 Creating reliable labels: clinical annotation workflows  
+15.2 Weak labels, semi-supervised learning, and self-supervised pretraining  
+15.3 Data versioning, provenance, and reproducible pipelines  

@@ -1,4 +1,4 @@
-# AI-_FOR_-HEALTHCARE. Elsevier  
+# Signal Processing-Driven AI for Healthcare. Elsevier  
 
 Here will be scripts for EEG, EOG, EMG, and ECG for Signal processing and DL
 Elsevier Book - Signal Processing-Driven AI for Healthcare, [link](https://shop.elsevier.com/books/signal-processing-driven-ai-for-healthcare/rakhmatulin/978-0-443-49276-1)  

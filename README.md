@@ -12,19 +12,19 @@ Signal Processing-Driven AI for Healthcare examines how AI techniques can be app
 Table of contents
 Part I — Foundations
 
-1. Introduction: AI, biosignals, and healthcare workflows
-1.1 What are biosignals? (EEG, EMG, EOG, ECG — definitions & clinical roles)
-1.2 Why AI for biosignals? Opportunities & limitations
-1.3 Overview of the signal→feature→model pipeline
-1.4 Data, privacy, and regulatory context in healthcare
-2. Sensors, acquisition, and data characteristics
-2.1 Electrodes and sensor types (scalp, surface, invasive)
-2.2 Sampling, quantization, and anti-aliasing
-2.3 Typical noise sources & artifacts (powerline, motion, ocular, muscle)
-2.4 Multi-channel setups and montage conventions (EEG 10–20, ECG leads, EMG placements)
-2.5 Public datasets and benchmark repositories (PhysioNet, Sleep-EDF, TUH EEG, etc.)
-Part II — Signal Processing for Biomedical Time Series
-3. Preprocessing & cleaning
+1. Introduction: AI, biosignals, and healthcare workflows  
+1.1 What are biosignals? (EEG, EMG, EOG, ECG — definitions & clinical roles)  
+1.2 Why AI for biosignals? Opportunities & limitations  
+1.3 Overview of the signal→feature→model pipeline  
+1.4 Data, privacy, and regulatory context in healthcare  
+2. Sensors, acquisition, and data characteristics  
+2.1 Electrodes and sensor types (scalp, surface, invasive)  
+2.2 Sampling, quantization, and anti-aliasing  
+2.3 Typical noise sources & artifacts (powerline, motion, ocular, muscle)  
+2.4 Multi-channel setups and montage conventions (EEG 10–20, ECG leads, EMG placements)  
+2.5 Public datasets and benchmark repositories (PhysioNet, Sleep-EDF, TUH EEG, etc.)  
+Part II — Signal Processing for Biomedical Time Series  
+3. Preprocessing & cleaning  
 3.1 Filtering basics: high/low/bandpass, notch filters
 3.2 Baseline wander and drift correction
 3.3 Artifact detection & removal: ICA, SSP, regression approaches

@@ -8,7 +8,7 @@ Scripts will be uploaded after the book is released
 
 
 
-Description
+Description  
 Signal Processing-Driven AI for Healthcare examines how AI techniques can be applied across four major biosignals—EEG, EMG, EOG, and ECG—to derive clinically meaningful insights. As biomedical data becomes increasingly multimodal, there is a rising need for integrated methodologies that unite these signals within robust, explainable AI pipelines suitable for healthcare environments. This book provides a unified framework that spans data acquisition, preprocessing, feature extraction, modeling, evaluation, and deployment, with an emphasis on reproducibility, practical Python-based implementations, and real-world translation to clinical workflows.
 
 Key features  

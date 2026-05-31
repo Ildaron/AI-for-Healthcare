@@ -2,9 +2,13 @@
 
 Here will be scripts for EEG, EOG, EMG, and ECG for Signal processing and DL  
 Elsevier Book - Signal Processing-Driven AI for Healthcare, [link](https://shop.elsevier.com/books/signal-processing-driven-ai-for-healthcare/rakhmatulin/978-0-443-49276-1)    
-Author   
-Ildar Rakhmatulin  
-Scripts will be uploaded after the book is released       
+<p align="center">
+  <img src="https://github.com/Ildaron/EEG-Signal-Processing-with-Python/blob/main/supplementary_images/cover_image.jpg?raw=true" width="200">
+</p>
+ 
+Script Author     
+Ildar Rakhmatulin    
+Scripts will be uploaded after the book is released         
 
 
 

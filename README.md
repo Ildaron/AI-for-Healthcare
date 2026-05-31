@@ -6,7 +6,7 @@ Elsevier Book - Signal Processing-Driven AI for Healthcare, [link](https://shop.
   <img src="https://github.com/Ildaron/AI-for-Healthcare/blob/main/images/Book_cover.jpg" width="400">
 </p>
  
-Script Author - Dr. Ildar Rakhmatulin, Linmkdin     
+Scripts Author - Dr. Ildar Rakhmatulin, Linmkdin     
 Scripts will be uploaded after the book is released         
 
 

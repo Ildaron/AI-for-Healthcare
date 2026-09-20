@@ -9,7 +9,7 @@ Elsevier Book - Signal Processing-Driven AI for Healthcare, [link](https://shop.
 Scripts Author - Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)     
 Scripts will be uploaded after the book is released         
 
-Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord via the next [link](https://discord.gg/dCcUYKG9) and ask in the Book branch     
+Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord via the next [link](https://discord.gg/arZX3W58R) and ask in the Book branch     
 
 
 Description  

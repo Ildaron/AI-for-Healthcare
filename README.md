@@ -1,12 +1,13 @@
 # Signal Processing-Driven AI for Healthcare. Elsevier    
 
+Scripts Author - Dr. Ildar Rakhmatulin, Founder of Low-Cost Brain Computer Interface company [PiEEG](https://pieeg.com/), [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)       
+
 Scripts for EEG, EOG, EMG, and ECG for Signal processing and DL will be uploaded in October 2026      
 Elsevier Book - Signal Processing-Driven AI for Healthcare, [link](https://shop.elsevier.com/books/signal-processing-driven-ai-for-healthcare/rakhmatulin/978-0-443-49276-1)    
 <p align="center">
   <img src="https://github.com/Ildaron/AI-for-Healthcare/blob/main/images/Book_cover.jpg" width="400">
 </p>
  
-Scripts Author - Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)     
 Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord via the next [link](https://discord.gg/arZX3W58R)   
 
 Description  
